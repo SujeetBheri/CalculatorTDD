@@ -18,7 +18,7 @@ public class CalculatorMain {
     //adding code
     public int div(int a, int b) {
         if(b==0)
-            return b;
+            return a;
         else
             return a/b;
 

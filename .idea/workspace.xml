@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35b0a921-0859-4681-a678-0b5ef63ceb39" name="Changes" comment="Refactored Test Failure">
+    <list default="true" id="35b0a921-0859-4681-a678-0b5ef63ceb39" name="Changes" comment="Refactor Calculator Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666637814351</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Calculator Test First">
+      <created>1666639176160</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666639176160</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Refactor Calculator Test">
+      <created>1666639256565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666639256565</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +113,8 @@
     <MESSAGE value="Calculator first commit" />
     <MESSAGE value="pom.xml" />
     <MESSAGE value="Refactored Test Failure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored Test Failure" />
+    <MESSAGE value="Calculator Test First" />
+    <MESSAGE value="Refactor Calculator Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor Calculator Test" />
   </component>
 </project>
